@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MNIST réseau de neurone convolutif
+title: MNIST (amélioré)
 description: Utilisation de réseau de neurone convolutif pour MNIST
 image: assets/images/pic11.jpg
 nav-menu: true

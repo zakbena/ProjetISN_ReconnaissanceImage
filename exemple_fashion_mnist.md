@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FashionMNIST
+title: Fashion MNIST
 description: Réseau de neurone Convolutif pour classer FashionMnist
 image: assets/images/pic11.jpg
 nav-menu: true
