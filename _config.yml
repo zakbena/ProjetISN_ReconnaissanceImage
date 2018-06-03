@@ -5,13 +5,13 @@ email: zakari-94@live.fr
 description: "Projet D'initiation à la reconnaissance d'image par l'utilisation de méthodes d'intelligence artificielle: les réseaux de neurones artificiels" 
 baseurl: "/ProjetISN_ReconnaissanceImage" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: Zakari Benabdesselam
+street_address: Lycée Adolphe Cherioux
+city: Vitry sur Seine
+state: 
+zip_code: 94400
+country: France
+phone: 
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
