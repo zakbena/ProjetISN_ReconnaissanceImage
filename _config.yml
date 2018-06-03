@@ -2,7 +2,7 @@
 title: Projet ISN
 subtitle: Reconnaissance d'Image par Réseau de Neurone 
 email: zakari-94@live.fr
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Projet D'initiation au Science de l'Ingénieur: <br/>initiation a la reconnaissance d'image et à l'intelligence artificielle
 baseurl: "/ProjetISN_ReconnaissanceImage" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -18,16 +18,7 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+github_url:https://github.com/zakbena/
 
 # build settings
 markdown: kramdown
