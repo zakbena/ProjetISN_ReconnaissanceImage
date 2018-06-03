@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: Carnet de bord
+landing-title: 'Carnet de Bord'
 nav-menu: true
 description: null
 image: null
