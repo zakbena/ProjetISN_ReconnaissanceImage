@@ -159,7 +159,7 @@ test_model(model=model)
 
 
 
-![png](output_6_2.png)
+![png](assets/images/mnist/simple/output_6_2.png)
 
 
     Test le réseau sur des données test qui n'on jamais été observé par le réseau
@@ -167,42 +167,42 @@ test_model(model=model)
 
 
 
-![png](output_6_4.png)
+![png](assets/images/mnist/simple/output_6_4.png)
 
 
     Accuracy: 28.12%
 
 
 
-![png](output_6_6.png)
+![png](assets/images/mnist/simple/output_6_6.png)
 
 
     Accuracy: 23.44%
 
 
 
-![png](output_6_8.png)
+![png](assets/images/mnist/simple/output_6_8.png)
 
 
     Accuracy: 25.00%
 
 
 
-![png](output_6_10.png)
+![png](assets/images/mnist/simple/output_6_10.png)
 
 
     Accuracy: 25.00%
 
 
 
-![png](output_6_12.png)
+![png](assets/images/mnist/simple/output_6_12.png)
 
 
     Accuracy: 14.06%
 
 
 
-![png](output_6_14.png)
+![png](assets/images/mnist/simple/output_6_14.png)
 
 
 
@@ -253,7 +253,7 @@ test_model(model=model)
 
 
 
-![png](output_7_2.png)
+![png](assets/images/mnist/simple/output_7_2.png)
 
 
     Test le réseau sur des données test qui n'on jamais été observé par le réseau
@@ -261,39 +261,39 @@ test_model(model=model)
 
 
 
-![png](output_7_4.png)
+![png](assets/images/mnist/simple/output_7_4.png)
 
 
     Accuracy: 73.44%
 
 
 
-![png](output_7_6.png)
+![png](assets/images/mnist/simple/output_7_6.png)
 
 
     Accuracy: 75.00%
 
 
 
-![png](output_7_8.png)
+![png](assets/images/mnist/simple/output_7_8.png)
 
 
     Accuracy: 73.44%
 
 
 
-![png](output_7_10.png)
+![png](assets/images/mnist/simple/output_7_10.png)
 
 
     Accuracy: 73.44%
 
 
 
-![png](output_7_12.png)
+![png](assets/images/mnist/simple/output_7_12.png)
 
 
     Accuracy: 65.62%
 
 
 
-![png](output_7_14.png)
+![png](assets/images/mnist/simple/output_7_14.png)
