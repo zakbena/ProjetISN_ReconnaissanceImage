@@ -2,7 +2,7 @@
 title: Projet ISN
 subtitle: Reconnaissance d'Image par Réseau de Neurone 
 email: zakari-94@live.fr
-description: Projet D'initiation au Science de l'Ingénieur: <br/>initiation a la reconnaissance d'image et à l'intelligence artificielle
+description: Projet D'initiation au Science de l'Ingénieur: <br />initiation a la reconnaissance d'image et à l'intelligence artificielle
 baseurl: "/ProjetISN_ReconnaissanceImage" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
