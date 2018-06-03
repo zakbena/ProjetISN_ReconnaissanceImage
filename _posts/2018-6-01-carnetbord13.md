@@ -11,7 +11,13 @@ Zakari, Bilal, Dinesh
 
 <h4>Objectif de la séance</h4>
 
+•Rediger le rapport
+
+•Preparer les presentations PowerPoint.
+
 <h4>Travaux réalisé</h4>
+Durant cette avant-dernière semaine ,nous avons rédigé un rapport sur le projet ,les différents codes que nous fait,comment nous les avons fait et également les méthodes et définitions qui concernent les réseaux de neurones et tout ce qui concerne l’apprentissage arti.
+Nous avons aussi realisé nos presentations powerpoint.
 
 <h4>Références</h4>
 

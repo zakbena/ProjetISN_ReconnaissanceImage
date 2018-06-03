@@ -11,6 +11,8 @@ Zakari, Bilal, Dinesh
 
 <h4>Objectif de la séance</h4>
 
+•Se préparer à l’oral pour la présentation finale.
+
 <h4>Travaux réalisé</h4>
 
 <h4>Références</h4>

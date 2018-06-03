@@ -16,13 +16,13 @@ Zakari, Bilal, Dinesh
 		</ul>
 <h4>Travaux réalisé</h4>
 Nous fait des recherches sur des sujets potentiel pour le projet et en avons trouvé quelqu'un :
-
-* reprise du site web fait pour le projet précédent (  faire un site dynamique avec du javascript  sur un nouveau thème)
-* logiciel de cryptage de message
-réalisation d'un mini jeu vidéo (jeu de plateforme type mario bros)
-* Algorithme de reconnaissance d'image  par apprentissage artificielle ( réseaux de neurones) [1]
-* Algorithme d'optimisation pour le problème de voyageur de commerce
-
+<ul>
+<li>reprise du site web fait pour le projet précédent (  faire un site dynamique avec du javascript  sur un nouveau thème)      </li>
+<li>logiciel de cryptage de message</li>
+<li>réalisation d'un mini jeu vidéo (jeu de plateforme type mario bros)</li>
+<li>Algorithme de reconnaissance d'image  par apprentissage artificielle ( réseaux de neurones) [1]</li>
+<li>Algorithme d'optimisation pour le problème de voyageur de commerce</li>
+</ul>
 <h4>Références</h4>
 <ol>
 <li>https://trustmyscience.com/une-ia-genere-une-nouvelle-ia-plus-performante-que-toutes-les-autres/                           </li>
@@ -43,6 +43,8 @@ réalisation d'un mini jeu vidéo (jeu de plateforme type mario bros)
 </ol>
 
 <h4>Travaux à réaliser pour la semaine suivante</h4>
+
+Choisir définitivement un sujet de projet
 
 
 

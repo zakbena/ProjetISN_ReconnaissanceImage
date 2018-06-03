@@ -10,12 +10,31 @@ image:
 Zakari, Bilal, Dinesh
 
 <h4>Objectif de la séance</h4>
+Recherche des différentes méthodes d'apprentissage artificielle
+supervisé
+non supervisée
+Technique d’apprentissage
 
 <h4>Travaux réalisé</h4>
+Etude des detail des differentes techniques:
+•Support Vecteur Machine
+•K plus proche voisin
+•Arbre de décision
+•Réseaux de neurones
+
+
 
 <h4>Références</h4>
+https://www.math.univ-toulouse.fr/~agarivie/mydocs/apprentissageSupervise.pdf
+https://fr.wikipedia.org/wiki/Apprentissage_supervis%C3%A9
+https://fr.wikipedia.org/wiki/Apprentissage_non_supervis%C3%A9
+https://openclassrooms.com/forum/sujet/svm-support-vector-machine
+https://i2.wp.com/charlesen.fr/wp-content/uploads/2015/10/images_reseauxneurones.png?fit=393%2C220&ssl=1
+https://fr.wikipedia.org/wiki/R%C3%A9seau_de_neurones_artificiels
+https://fr.wikipedia.org/wiki/Arbre_de_d%C3%A9cision
 
 <h4>Travaux à réaliser pour la semaine suivante</h4>
+Recherche des fondamentaux de mathématique pour ces méthodes:, produit matricielle/scalaire, convexité, optimisation (descente de gradient), fonction mathématique et dérivé: calcul du gradient
 
 
 
