@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Reseaux de Neurones:Reconaissance d'image'
 description: null
 image: null
 author: null
