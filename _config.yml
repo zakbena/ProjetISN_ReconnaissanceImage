@@ -2,7 +2,7 @@
 title: Projet ISN
 subtitle: Reconnaissance d'Image par Réseau de Neurone 
 email: zakari-94@live.fr
-description: dfdffd
+description: Projet D'initiation au Science de l'Ingénieur: <br /> initiation a la reconnaissance d'image et à l'intelligence artificielle
 baseurl: "/ProjetISN_ReconnaissanceImage" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -18,7 +18,7 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-github_url:https://github.com/zakbena/
+github_url: https://github.com/zakbena/
 
 # build settings
 markdown: kramdown
