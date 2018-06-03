@@ -1,5 +1,5 @@
 <section id="one" class="tiles">
-	{% for post in site.posts limit:site.tiles-count %}
+	{% for post in site.posts limit:site.tiles-count reversed %}
 	{% if site.tiles-source == 'posts' %}
         <article>
                 <span class="image">
