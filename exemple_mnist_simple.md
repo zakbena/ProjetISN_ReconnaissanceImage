@@ -6,12 +6,12 @@ description: Lorem ipsum dolor est
 nav-menu: true
 ---
 
-Dans cette exemple nous utilisons le jeu de donnée Mnist (disponible à l'adresse suivante https://github.com/zalandoresearch/fashion-mnist) pour apprendre a classer  des images de chiffres de 0 à 9 écrits à la main.
+Dans cette exemple nous utilisons le jeu de donnée Mnist (disponible à l'adresse suivante http://yann.lecun.com/exdb/mnist) pour apprendre a classer  des images de chiffres de 0 à 9 écrits à la main.
 
 Cette base de données est composé 60 000 images pour faire l'apprentissage et 10000 images pour tester notre algorithme d'apprentissage, Les images sont réparties en 10 classes qui correspondent à 10 chiffres différents: dans l'image suivante nous montrons un exemple des 10 types de classes.
 
 
-<img src="assets/images/mnist.jpeg" align="middle"  width="50%" height="50%"/>
+<p style="text-align:center;"><img src="assets/images/mnist.jpeg" align="middle"  width="50%" height="50%"/></p>
 
 
 ## Developpement: Exemple simple
