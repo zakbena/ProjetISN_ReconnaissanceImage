@@ -1,6 +1,6 @@
 ---
-layout: landing
-title: Landing
+layout: exemple_reseau_neurone
+title: Prout
 description: Lorem ipsum dolor est
 
 nav-menu: true
