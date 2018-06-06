@@ -2,7 +2,6 @@
 layout: post
 title: CIFAR10 /VGG19
 description: Utilisé du réseau de neurone VGG19 pour classer CIFAR10
-image: assets/images/pic11.jpg
 nav-menu: true
 ---
 

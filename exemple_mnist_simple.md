@@ -2,7 +2,7 @@
 layout: post
 title: MNIST (initiation)
 description: Lorem ipsum dolor est
-image: assets/images/mnist.jpeg
+
 nav-menu: true
 ---
 
