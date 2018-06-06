@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Home
 landing-title: Reconnaissance d'image par réseau de neurone
 description: null
