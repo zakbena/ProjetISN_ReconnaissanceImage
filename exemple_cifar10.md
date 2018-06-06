@@ -13,7 +13,7 @@ Dans cette exemple nous utilisons le jeu de donnée de CIFAR10 (disponible à l'
 ## Présentation de CIFAR10
 Cette base de données est composé 50 000 images pour faire l'apprentissage et 10000 images pour tester notre algorithme d'apprentissage, Les images sont réparties en 10 classes:  Avion, voiture, oiseau,chat, cerf, chien, grenouille, cheval, bateau et camion
 
-<p style="text-align:center;"><img src="assets/images/fashion_mnist.png" align="middle"  width="50%" height="50%"/></p>
+<p style="text-align:center;"><img src="assets/images/cifar10.png" align="middle"  width="50%" height="50%"/></p>
 
 le jeu de donnée CIFAR a été developpé par l'université de Toronto et est un des jeu de données les plus utilisé en recherche en IA pour la reconnaissance d'objet. Il est utilisé surtout pour tester les capacités d'apprentissage des algorithmes d'apprentissage artificiel comme les réseaux de neurones.
 Il y a un autre jeu de donnée , CIFAR100, ou le but d'apprendre à reconnaitre 100 classes d'objet différents, dont dix classes de CIFAR10
