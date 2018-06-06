@@ -7,4 +7,10 @@ image: null
 author: null
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Dans ce site vous trouverez le carnet de bord qui decrit l'évolution de notre projet au cours des trois dernier mois
+
+<ul class="actions">
+<li><a href="allposts.html" class="button next">Carnet de Bord</a></li>
+</ul>
+
+Vous trouverez également un exemple en ligne pour comprend le fonction des réseaux de neurones. Vous pourrez  tester différentes architectures de réseaux de neurones en modifiant les paramètres et en modifiant l'exemple
