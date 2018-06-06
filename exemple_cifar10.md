@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: CIFAR10 avec VGG19 (Réseau Convolutif amélioré)
 description: Utilisé du réseau de neurone VGG19 pour classer CIFAR10
 nav-menu: true

@@ -13,4 +13,3 @@ Dans ce site vous trouverez le carnet de bord qui decrit l'évolution de notre p
 <li><a href="all_posts.html" class="button next">Carnet de Bord</a></li>
 </ul>
 
-Vous trouverez également un exemple en ligne pour comprend le fonction des réseaux de neurones. Vous pourrez  tester différentes architectures de réseaux de neurones en modifiant les paramètres et en modifiant l'exemple
