@@ -11,7 +11,7 @@ Dans cette exemple nous utilisons le jeu de donnée Fashion-Mnist (disponible à
 
 Cette base de données est composé 60 000 images pour faire l'apprentissage et 10000 images pour tester notre algorithme d'apprentissage, Les images sont réparties en 10 classes qui correspondent à 10 types de vetements différents: dans l'image suivante nous montrons un exemple des 10 types de classes.
 ![drawing](www/images/fashion_mnist.png"  width="50%" height="50%"/></p>
-<p style="text-align:center;"><img src="assets/images/" align="middle"  width="50%" height="50%"/></p>
+<p style="text-align:center;"><img src="assets/images/fashion_mnist.png" align="middle"  width="50%" height="50%"/></p>
 
 ## Developpement
 
