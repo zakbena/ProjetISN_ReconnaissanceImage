@@ -11,6 +11,9 @@ Dans cette exemple nous utilisons le jeu de donnée Mnist (disponible à l'adres
 Cette base de données est composé 60 000 images pour faire l'apprentissage et 10000 images pour tester notre algorithme d'apprentissage, Les images sont réparties en 10 classes qui correspondent à 10 chiffres différents: dans l'image suivante nous montrons un exemple des 10 types de classes.
 
 
+<img src="assets/images/mnist.jpeg" align="middle"  width="50%" height="50%"/>
+
+
 ## Developpement: Exemple simple
 
 On utilise la librairie pytorch qui permet de créer des réseaux de neurones de manière optimisé et qui à déjà intégré l'ensemble des formules mathématiques qui permettent de créer un réseau de neurone et de faire son apprentissage.

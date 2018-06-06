@@ -207,7 +207,7 @@ test_model(model=model)
 
 
 
-<img src="assets/images/mnist/conv/output_6_14.png"  width="50%" height="50%"/>
+<img src="assets/images/output_6_14.png"  width="50%" height="50%"/>
 
 
 
