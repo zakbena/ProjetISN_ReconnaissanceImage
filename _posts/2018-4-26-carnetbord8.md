@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Carner de Bord Semaine 8
+title: Carnet de Bord Semaine 8
 description:
 image:
 ---
