@@ -14,7 +14,7 @@ nav-menu: true
 
 <div class="box alt">
 	<div class="row 50% uniform">
-<div class="4u"><span class="image fit"><img src="assets/images/exemple_resnet34.jpg" alt="" /></span></div>
+<div class="12u"><span class="image fit"><img src="assets/images/exemple_resnet34.jpg" alt="" /></span></div>
 
 	</div>
 </div>
