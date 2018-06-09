@@ -4,11 +4,17 @@ title: QuickDraw
 nav-menu: true
 ---
 
-<h1> Resnet 18 </h1>
+
+<div id="main" class="alt">
+
+
+<section id="one">
+
+<h1> Resnet 34 </h1>
 
 <div class="box alt">
 	<div class="row 50% uniform">
-<div class="4u"><span class="image fit"><img src="assets/images/resnet34.jpg" alt="" /></span></div>
+<div class="2u"><span class="image fit"><img src="assets/images/resnet34.jpg" alt="" /></span></div>
 
 	</div>
 </div>
@@ -44,5 +50,8 @@ nav-menu: true
 <div class="4u"><span class="image fit"><img src="assets/images/quickdraw/batch_17.png" width="50%" height="50%" alt="" /></span></div>
 
 	</div>
+</div>
+
+</section>
 </div>
 
