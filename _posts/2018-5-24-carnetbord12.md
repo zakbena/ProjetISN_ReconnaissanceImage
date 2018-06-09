@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Carner de Bord Semaine 12
+title: Carnet de Bord Semaine 12
 description:
 image:
 ---
