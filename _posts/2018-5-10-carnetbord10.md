@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Carner de Bord Semaine 10
+title: Carnet de Bord Semaine 10
 description:
 image:
 ---
