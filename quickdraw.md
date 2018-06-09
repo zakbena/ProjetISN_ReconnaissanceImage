@@ -9,12 +9,12 @@ nav-menu: true
 
 
 <section id="one">
-
+<div class="inner">
 <h1> Resnet 34 </h1>
 
 <div class="box alt">
 	<div class="row 50% uniform">
-<div class="2u"><span class="image fit"><img src="assets/images/resnet34.jpg" alt="" /></span></div>
+<div class="2u"><span class="image fit"><img src="assets/images/exemple_resnet34.jpg" alt="" /></span></div>
 
 	</div>
 </div>
@@ -52,6 +52,7 @@ nav-menu: true
 	</div>
 </div>
 
+</div>
 </section>
 </div>
 
