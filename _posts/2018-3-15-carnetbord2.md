@@ -20,7 +20,8 @@ Zakari, Bilal, Dinesh
 Nous nous sommes informés sur comment réaliser ce projet
 On a recherché les différentes logiciels ou les sites internets utilisants la reconnaissance d’images(Shazam,Google lens,Aipoly,Face id (Iphone),Facebook)</p>
 <p>On a donc choisi ce sujet car il représente pour nous un vrai challenge, et il pourrait enrichir nos connaissances en algorithmique et en codage.
-On sait que ce projet représente un travail assez considérable mais nous en sommes conscient et l’on se verra souvent afin d’avancer le plus rapidement possible.</p>
+On sait que ce projet représente un travail assez considérable mais nous en sommes conscient et l’on se verra souvent afin d’avancer le plus rapidement possible.
+ En parallele nous avons contacter l'Abre des Conaissances,qui nous ont d'abord interroger sur la raison pour laquelle nous les avons contacter, nous leurs expliquer notre projet,ils nous ont ensuite promis de nous recontacter pour esseyer de nous aider dans notre demarche. </p>
 <h4>Références</h4>
 
 <ol>
