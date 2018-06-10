@@ -14,11 +14,8 @@ tutoriel python
 tutoriel codage réseau de neurones
 
 <h4>Travaux réalisé</h4>
-suivi de vidéo sur youtube pour le codage de réseau de neurone
-
-On a commencé à regarder des videos sur le codage en python et sur comment programmer un réseau de neurone
-
-
+Durant cette séance nous avons suivie une video permettant de coder un reseau de neurones simple mais long,faites par un youtuber nommé Sharethegeek.
+Egalement,en parallele nous avons discuté avec le chercheur par mail pour definir une date ou nous pourrons nous pourrons nous rencontrer et qu'il nous guide pour qu'il fasse mieux le concept des reseaux de neurones et qu'il guide notre projet.Nous nous sommes donc convenue à ce que nous nous rencontrions la semaine d'après au centre de recherche de l'Inria.
 
 <h4>Références</h4>
 [1] https://www.youtube.com/watch?v=Dso6nQNGrrw
@@ -28,7 +25,7 @@ https://docs.python.org/fr/3/tutorial/index.html
 https://python.developpez.com/cours/
 
 <h4>Travaux à réaliser pour la semaine suivante</h4>
-recherche de personnes connaissant  l'ia et essayer de rentrer en contact avec eux
+Rencontrer le chercheur et lui presenter le projet et les demarches accomlie
 
 
 </div>
