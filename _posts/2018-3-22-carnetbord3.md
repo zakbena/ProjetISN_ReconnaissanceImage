@@ -16,7 +16,7 @@ la reconnaissance d'image/ reconnaissance d'objet avec l'IA
 Apprentissage artificielle
 
 <h4>Travaux réalisé</h4>
-recherche approfondie de l'histoire de l'ia, des méthodes d'apprentissage et  leurs utilisation pour reconnaître des visage, des objets.
+Nous avons effecuté des recherches approfondie de l'histoire de l'ia, des méthodes d'apprentissage et  leurs utilisation pour reconnaître des visage, des objets.
 
 <h4>Références</h4>
 https://fr.wikipedia.org/wiki/Intelligence_artificielle
