@@ -35,6 +35,12 @@ https://fr.wikipedia.org/wiki/Arbre_de_d%C3%A9cision
 
 <h4>Travaux à réaliser pour la semaine suivante</h4>
 Recherche des fondamentaux de mathématique pour ces méthodes:, produit matricielle/scalaire, convexité, optimisation (descente de gradient), fonction mathématique et dérivé: calcul du gradient
+C'est durant cette semaine que l'association que nous avons contacter en début de projet, est revenu vers nous,pour nous mettre en contact avec un chercheur en inteligence artificiel : 
+<ul>
+  <li> Dr Nacim Belkhir</li>
+  <li> Chercheur à Safran Tech ( centre de recherche du groupe Safran) et Inria</li>
+  <li> mail: nacim.belkhir@safrangroup.com</li>
+</ul>
 
 
 
