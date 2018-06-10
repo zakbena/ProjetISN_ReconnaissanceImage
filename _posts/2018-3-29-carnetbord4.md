@@ -38,7 +38,7 @@ Recherche des fondamentaux de mathématique pour ces méthodes:, produit matrici
 C'est durant cette semaine que l'association que nous avons contacter en début de projet, est revenu vers nous,pour nous mettre en contact avec un chercheur en inteligence artificiel : 
 <ul>
   <li> Dr Nacim Belkhir</li>
-  <li> Chercheur à Safran Tech ( centre de recherche du groupe Safran) et Inria</li>
+  <li> Chercheur à Safran Tech (centre de recherche du groupe Safran) et INRIA (Institut National de la Recherche en Informatique et en Automatique)</li>
   <li> mail: nacim.belkhir@safrangroup.com</li>
 </ul>
 
