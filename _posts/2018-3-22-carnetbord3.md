@@ -30,6 +30,7 @@ http://members.cbio.mines-paristech.fr/~thocking/mines-course/2011-05-13-cluster
 <h4>Travaux à réaliser pour la semaine suivante</h4>
 
 Faire des recherches sur les différents types d’apprentissages
+
 Regarder comment fonctionne ces techniques et comment le coder
 
 
