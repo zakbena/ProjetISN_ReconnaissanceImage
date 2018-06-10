@@ -4,7 +4,6 @@ title: QuickDraw
 nav-menu: true
 ---
 
-
 <div id="main" class="alt">
 
 
@@ -16,7 +15,8 @@ nav-menu: true
 	<div class="row 50% uniform">
 <div class="12u"><span class="image fit"><img src="assets/images/exemple_resnet34.jpg" alt="" /></span></div>
 
-	</div>
+
+</div>
 </div>
 
 
