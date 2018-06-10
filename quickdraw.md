@@ -1,6 +1,6 @@
 ---
 layout: page
-title: QuickDraw
+title: QuickDraw + Demo Live
 nav-menu: true
 ---
 
