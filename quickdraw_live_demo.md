@@ -9,7 +9,8 @@ nav-menu: true
 
 <section id="one">
 <div class="inner">
-    <iframe src="https://quickdraw-10-classification.herokuapp.com/" name="frame2" frameborder="0" scrolling="auto" onload="" allowtransparency="True" width="100%" height="60%"></iframe>
+
+    <iframe src="https://quickdraw-10-classification.herokuapp.com/" name="frame2" frameborder="0" scrolling="auto" onload="" allowtransparency="True" width="80%" height="800"></iframe>
 
 
 </div>
