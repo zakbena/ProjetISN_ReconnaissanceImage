@@ -11,7 +11,7 @@ Zakari, Bilal, Dinesh
 
 <h4>Objectif de la séance</h4>
 		<ul class="alt">
-			<li>Recherche de différents d'idées  de projet.</li>
+			<li>Recherche de différentes idées de projet.</li>
 			<li>Recherche d'information pour chaque idées de projet.</li>
 		</ul>
 <h4>Travaux réalisé</h4>
