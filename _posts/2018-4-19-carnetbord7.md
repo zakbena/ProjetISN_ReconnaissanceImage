@@ -31,6 +31,7 @@ https://openclassrooms.com/courses/utilisez-des-modeles-supervises-non-lineaires
 <h4>Travaux à réaliser pour la semaine suivante</h4>
 
 •Finir de coder le reseau de neurones simple
+
 •Tester le reseau de neurones
 
 
