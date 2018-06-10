@@ -25,7 +25,7 @@ https://docs.python.org/fr/3/tutorial/index.html
 https://python.developpez.com/cours/
 
 <h4>Travaux à réaliser pour la semaine suivante</h4>
-Rencontrer le chercheur et lui presenter le projet et les demarches accomlie
+Rencontrer le chercheur et lui presenter le projet et les demarches accomplie
 
 
 </div>
