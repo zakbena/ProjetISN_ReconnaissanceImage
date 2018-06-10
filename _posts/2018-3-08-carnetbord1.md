@@ -15,7 +15,7 @@ Zakari, Bilal, Dinesh
 			<li>Recherche d'information pour chaque idées de projet.</li>
 		</ul>
 <h4>Travaux réalisé</h4>
-Nous fait des recherches sur des sujets potentiel pour le projet et en avons trouvé quelqu'un :
+Nous avons fait des recherches sur des sujets potentiel pour le projet et en avons trouvé un :
 <ul>
 <li>reprise du site web fait pour le projet précédent (  faire un site dynamique avec du javascript  sur un nouveau thème)      </li>
 <li>logiciel de cryptage de message</li>
@@ -23,6 +23,8 @@ Nous fait des recherches sur des sujets potentiel pour le projet et en avons tro
 <li>Algorithme de reconnaissance d'image  par apprentissage artificielle ( réseaux de neurones) [1]</li>
 <li>Algorithme d'optimisation pour le problème de voyageur de commerce</li>
 </ul>
+ Egalement, dès le premier samedi ou l'on s'est vu , nous avons  demandé de l'aide pour comprendre ses sujets sur le forum de Openclassroom. Nous avons été redirigé vers une association nommé Arbre des Connaissances(http://arbre-des-connaissances-apsr.org/)
+ qui permet a des lycéens et collegiens de decouvrir le monde de la recherche scientifique.Pour ça, ils mettent en place des partenariats entre etablissement scolaire et des centres de recherches publique(Inria,Cnrs,Uiversité) et privé (Thales,Safran). 
 <h4>Références</h4>
 <ol>
 <li>https://trustmyscience.com/une-ia-genere-une-nouvelle-ia-plus-performante-que-toutes-les-autres/                           </li>
