@@ -28,8 +28,8 @@ nav-menu: true
 <div class="4u"><span class="image fit"><img src="assets/images/quickdraw/batch_0.png" width="50%" height="50%" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="assets/images/quickdraw/batch_1.png" width="50%" height="50%" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="assets/images/quickdraw/batch_2.png" width="50%" height="50%" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="assets/images/quickdraw/batch_3.png" width="50%" height="50%" alt="" /></span></div>
 		<!-- Break -->
+<div class="4u"><span class="image fit"><img src="assets/images/quickdraw/batch_3.png" width="50%" height="50%" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="assets/images/quickdraw/batch_4.png" width="50%" height="50%" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="assets/images/quickdraw/batch_5.png" width="50%" height="50%" alt="" /></span></div>
 		<!-- Break -->
@@ -43,7 +43,7 @@ nav-menu: true
 Nous avons réalisé une application web développé en python avec pytorch pour créer le réseau de neurone et le
 <div class="box alt">
 <div class="row 50% uniform">
-<iframe  "src="https://quickdraw-10-classification.herokuapp.com/" name="frame2" frameborder="0" scrolling="auto" onload="" allowtransparency="True" width="900" height="800"></iframe>
+<iframe src="https://quickdraw-10-classification.herokuapp.com/" name="frame2" frameborder="0" scrolling="auto" onload="" allowtransparency="True" width="100%" height="800"></iframe>
 </div>
 </div>
 
