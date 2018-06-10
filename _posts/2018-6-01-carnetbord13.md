@@ -22,7 +22,7 @@ Nous avons aussi realisé nos presentations powerpoint.
 <h4>Références</h4>
 
 <h4>Travaux à réaliser pour la semaine suivante</h4>
-
+S'entrainner pour l'oral.
 
 
 </div>
