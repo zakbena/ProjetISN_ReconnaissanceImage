@@ -43,7 +43,7 @@ nav-menu: true
 Nous avons réalisé une application web développé en python avec pytorch pour créer le réseau de neurone et le
 <div class="box alt">
 <div class="row 50% uniform">
-<div class="4u"><span class="image fit"><iframe src="https://quickdraw-10-classification.herokuapp.com/" name="frame2" frameborder="0" scrolling="auto" onload="" allowtransparency="True" width="900" height="800"></iframe> </div>
+<p style="text-align:center;"><iframe src="https://quickdraw-10-classification.herokuapp.com/" name="frame2" frameborder="0" scrolling="auto" onload="" allowtransparency="True" width="900" height="800"></iframe></p>
 </div>
 </div>
 
