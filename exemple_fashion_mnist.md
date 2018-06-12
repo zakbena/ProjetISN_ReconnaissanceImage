@@ -170,7 +170,7 @@ plt.show()
 test_model(model=model)
 ```
 
-    /home/nacim/anaconda2/lib/python2.7/site-packages/ipykernel_launcher.py:23: UserWarning: invalid index of a 0-dim tensor. This will be an error in PyTorch 0.5. Use tensor.item() to convert a 0-dim tensor to a Python number
+    /home/zakari/anaconda2/lib/python2.7/site-packages/ipykernel_launcher.py:23: UserWarning: invalid index of a 0-dim tensor. This will be an error in PyTorch 0.5. Use tensor.item() to convert a 0-dim tensor to a Python number
 
 
     Epoch 0:	 erreur 0.7173	precision 75.00%
@@ -276,7 +276,7 @@ plt.show()
 test_model(model=model)
 ```
 
-    /home/bilal/anaconda2/lib/python2.7/site-packages/ipykernel_launcher.py:23: UserWarning: invalid index of a 0-dim tensor. This will be an error in PyTorch 0.5. Use tensor.item() to convert a 0-dim tensor to a Python number
+    /home/zakari/anaconda2/lib/python2.7/site-packages/ipykernel_launcher.py:23: UserWarning: invalid index of a 0-dim tensor. This will be an error in PyTorch 0.5. Use tensor.item() to convert a 0-dim tensor to a Python number
 
 
     Epoch 0:	 erreur 0.7239	precision 62.50%
